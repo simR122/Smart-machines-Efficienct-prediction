@@ -17,6 +17,8 @@
 ![Minikube](https://img.shields.io/badge/Minikube-Kubernetes_Local-orange?logo=kubernetes)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-Deployment-blue?logo=argo)
 
+## Dataset [Kaggle LINK](https://www.kaggle.com/datasets/ziya07/smart-manufacturing-iot-cloud-monitoring-dataset)
+
 ## Overview
 This project predicts the efficiency of smart manufacturing machines using machine learning. It includes a Flask-based web application for user interaction and a CI/CD pipeline for deployment.
 
